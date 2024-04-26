@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# TasteTrove--food-recipe-app
+ TasteTrove-Food Recipe App: Search and display recipes by ingredients. Responsive design. Utilizes Edamam API. Easy to use and explore diverse recipes!"
+>>>>>>> 5e7f0a54022ea1ec5b9e90d473a0040032770e2a
